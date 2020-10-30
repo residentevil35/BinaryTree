@@ -1,0 +1,36 @@
+**********************************
+CS 372
+Output file for Binary Tree Program
+**********************************
+
+Binary Tree printed In-order (first 20 values)
+17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 33 37 44 51 58 
+
+Binary tree printed in pre-order (first 20 values)
+58 51 29 23 20 19 17 18 22 21 28 26 25 24 27 44 37 33 31 30 
+
+Binary Tree in post-order (first 20 values)
+
+
+The number of nodes in the tree is: 174
+
+The sum and average of the binary tree: 
+Sum: 18107 Average: 104.0
+
+The number of duplicates in the tree was: 933
+
+The number of leaves in the tree is: 62
+
+The number of nodes with only 1 child: 51
+
+The deepest leaf in the tree: 145
+
+Deleting nodes where the sum of the digits is < 9...
+
+The binary tree In-order after deletion (first 20 values): 
+17 18 19 20 22 23 25 26 27 28 29 31 33 34 35 36 37 44 51 58 
+
+The number of nodes in the tree after deletion is: 151
+
+The sum and average of the tree after deletion
+Sum: 16036 Average: 106.0
